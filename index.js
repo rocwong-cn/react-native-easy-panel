@@ -5,7 +5,5 @@
 import DropDownPanel from './DropDownPanel';
 import PopUpPanel from './PopUpPanel';
 
-module.exports ={
-    DropDownPanel,
-    PopUpPanel
-};
+export const DropDownPanel = DropDownPanel;
+export const PopUpPanel = PopUpPanel;

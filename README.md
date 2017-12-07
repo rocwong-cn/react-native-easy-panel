@@ -49,7 +49,7 @@ The panel container's style you want to custom.
 
 import React, { Component } from 'react';
 import { Button, StyleSheet, Text, View } from 'react-native';
-import { DropDownPanel, PopUpPanel } from 'react-native-pannel';
+import { DropDownPanel, PopUpPanel } from 'react-native-easy-panel';
 
 export default class App extends Component<{}> {
     constructor(props) {
