@@ -1,6 +1,6 @@
 {
-  "name": "react-native-panel",
-  "version": "1.0.0",
+  "name": "react-native-easy-panel",
+  "version": "1.0.1",
   "description": "DropDownPanel & PopupPanel",
   "main": "index.js",
   "scripts": {
@@ -8,17 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rocwangv/react-native-panel.git"
+    "url": "git+https://github.com/rocwangv/react-native-easy-panel.git"
   },
   "keywords": [
     "DropDownPanel",
-    "&",
     "PopupPanel"
   ],
   "author": "RocWang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rocwangv/react-native-panel/issues"
+    "url": "https://github.com/rocwangv/react-native-easy-panel/issues"
   },
-  "homepage": "https://github.com/rocwangv/react-native-panel#readme"
+  "homepage": "https://github.com/rocwangv/react-native-easy-panel#readme"
 }

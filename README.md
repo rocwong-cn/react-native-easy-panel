@@ -1,12 +1,12 @@
-# react-native-pannel
+# react-native-easy-panel
 
 ## Demo
-
+![demo](https://github.com/rocwangv/react-native-easy-panel/blob/master/demo.gif)
 
 ## Install
 
 ```bash
-npm i --S react-native-panel
+npm i --S react-native-easy-panel
 ```
 
 ## Props
